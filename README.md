@@ -1,6 +1,6 @@
 # AIorigin.org
 
-A lot of the content that people read is written or part written by different kinds of AIs. Soon it may be most things people read.
+A lot of the content that people read is written by different kinds of AIs. Soon it may be most things people read.
 
 It's nice for people to know the origin of what they're reading. That way they can make informed decisions about how it
 affects them.
