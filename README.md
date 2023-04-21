@@ -1,4 +1,4 @@
-# AIorigin.org
+[![Human](https://img.shields.io/badge/AIorigin.org-Human-green?style=for-the-badge&link=https://aiorigin.org&link=https://aiorigin.org)](https://aiorigin.org)
 
 A lot of the content that people read is written by different kinds of AIs. Soon it may be most things people read.
 
