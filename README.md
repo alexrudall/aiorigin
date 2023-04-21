@@ -2,10 +2,10 @@
 
 A lot of the content that people read is written by different kinds of AIs. Soon it may be most things people read.
 
-It's nice for people to know the origin of what they're reading. That way they can make informed decisions about how it
+It's important for people to know the origin of what they're reading. That way they can make informed decisions about how it
 affects them.
 
-Use these badges to let people know what they're reading:
+Use these badges to be transparent and let people know what they're reading:
 
 ## Human
 
